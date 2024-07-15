@@ -1,5 +1,5 @@
-#E-com set-up instruction on localhost:
-#step:
+##E-com set-up instruction on localhost:
+##step:
 1. open command prompt from where you open the folder.
 2. composer install or composer update
 3. open project in your desired IDE(eg.VS CODE)
@@ -12,6 +12,6 @@
 10. npm install
 11. npm run dev
 12. php artisan migrate
-Now browse the E-com.If you register as user role should be 2.and for admin role should be 1.(you also direct change this role  from mysql database)
+13.Now browse the E-com. If you register as user role should be 2 .and for admin role should be 1.(you also direct change this role  from mysql database)
 User only see the products and buy and Admin can do Create,Update,Delete.
 If you new register then it will go a profile page (if you cannt get design .just browse the url eg.http://127.0.0.1:8000/ )Then you see the functionality with design.
