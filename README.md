@@ -1,5 +1,6 @@
-##E-com set-up instruction on localhost:
-##step:
+<h2>E-com set-up instruction on localhost</h2>
+<br>
+<h2>##step:</h2>
 1. open command prompt from where you open the folder.
 2. composer install or composer update
 3. open project in your desired IDE(eg.VS CODE)
